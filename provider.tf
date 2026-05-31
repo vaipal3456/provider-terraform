@@ -1,4 +1,4 @@
 provider "azurerm" {
     features{}
 }
-resource
+resource "azurerm"
